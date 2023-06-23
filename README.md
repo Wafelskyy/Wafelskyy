@@ -1,3 +1,1 @@
-Wafelskyy, Discord.py
-Python/Javascript
-Discord Developer
+Just begginer in coding world.
